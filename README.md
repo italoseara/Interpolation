@@ -13,7 +13,7 @@ make
 
 `-o <output_image>` is the path to the output image. If not provided, the output image will be saved as `output.png`.
 
-`-t <type>` is the interpolation type. It can be `nearest`, `bilinear`, `bicubic` or `lanczos`. The default is `nearest`.
+`-t <type>` is the interpolation type. It can be `nearest` or `bilinear`. The default is `nearest`.
 
 `-sx <scale_x>` is the scale factor in the x-axis. The default is 2.
 
